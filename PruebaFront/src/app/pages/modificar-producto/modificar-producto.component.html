@@ -1,0 +1,21 @@
+<div class="container mx-auto">
+    <h3>Opciones de producto</h3>
+    <div class="d-flex justify-content-end">
+        <button class="btn btn-primary" (click)="deletePersonas()">Anular</button>
+    </div>
+    <form #f="ngForm" (ngSubmit)="updatePersonas(f)" ngNativeValidate>
+        <div class="mb-3">
+            <label class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" [ngModel]="nombre" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Precio</label>
+            <input type="text" class="form-control" name="precio" [ngModel]="precio" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Stock</label>
+            <input type="text" class="form-control" name="stock" [ngModel]="stock" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Actualizar</button>
+    </form>
+</div>

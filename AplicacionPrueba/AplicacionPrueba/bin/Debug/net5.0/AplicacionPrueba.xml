@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AplicacionPrueba</name>
+    </assembly>
+    <members>
+        <member name="M:AplicacionPrueba.Controllers.ProductoController.Get">
+            <summary>
+            este servicio traera todos los productos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AplicacionPrueba.Controllers.ProductoController.Get(System.Int32)">
+            <summary>
+            este servicio traera solo un producto
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AplicacionPrueba.Controllers.ProductoController.Post(AplicacionPrueba.Entidades.Producto)">
+            <summary>
+            este servicio guardara un producto
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AplicacionPrueba.Controllers.ProductoController.Put(AplicacionPrueba.Entidades.Producto)">
+            <summary>
+            este servicio actualizara un producto
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AplicacionPrueba.Controllers.ProductoController.Delete(System.Int32)">
+            <summary>
+            este servicio eliminara un producto
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo2.exe
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo2.deps.json
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo2.runtimeconfig.json
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo2.runtimeconfig.dev.json
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo2.dll
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\bin\Debug\netcoreapp3.1\Algoritmo2.pdb
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo2.csprojAssemblyReference.cache
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo2.AssemblyInfoInputs.cache
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo2.AssemblyInfo.cs
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo2.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo2.dll
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo2.pdb
+C:\Aplicaciones\Pruebas_Borrar\Prueba\Algoritmo2\Algoritmo2\obj\Debug\netcoreapp3.1\Algoritmo2.genruntimeconfig.cache

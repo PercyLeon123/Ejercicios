@@ -1,0 +1,29 @@
+<h3>Listado de productos</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Precio</th>
+            <th scope="col">Stock</th>
+            <th scope="col">Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!--
+      <app-item-persona [datos]="persona" *ngFor="let persona of personas" class="d-table-cell">
+
+      </app-item-persona>
+    -->
+        <tr *ngFor="let producto of productos">
+            <th scope="row">{{producto.id}}</th>
+            <td>{{producto.nombre}}</td>
+            <td>{{producto.precio}}</td>
+            <td>{{producto.stock}}</td>
+            <td>
+                <button class="btn btn-primary" (click)="opciones(producto.id)">Opciones</button>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
