@@ -83,7 +83,7 @@ namespace AplicacionPrueba.Controllers
         {
             var sql = $"delete from Producto where Id = @Id";
             var resul = Con.Execute(sql, new { Id = id });
-            f(resul == 0)
+            if(resul == 0)
                 return NotFound();
 
             return Ok();

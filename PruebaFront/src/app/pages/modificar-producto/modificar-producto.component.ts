@@ -54,9 +54,6 @@ export class ModificarProductoComponent implements OnInit {
 
   deletePersonas():void{
     this.producto.deletePersonas(this.id);
-    var x = setTimeout(function(){
       this.router.navigate(['/ingresarProducto']);
-    }, 1000);
-
   }
 }
