@@ -14,7 +14,7 @@ namespace Algoritmo
             Console.WriteLine("Introduzca un texto");
             var texto = Console.ReadLine();
             var response = ChangeString.build(texto);
-            Console.WriteLine("El texto introducido es:{0}", response);
+            Console.WriteLine("El texto convertido es:{0}", response);
         }
 
     }
